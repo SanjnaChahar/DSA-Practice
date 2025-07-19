@@ -1,4 +1,4 @@
-# 🧮 DSA Practice
+ DSA Practice
 
 Practicing Data Structures and Algorithms in C++.
 
