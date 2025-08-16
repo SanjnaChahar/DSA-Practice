@@ -8,6 +8,7 @@ Practicing Data Structures and Algorithms in C++
 - Reorder Power of 2
 - Power of Three
 - Largest 3-Same-Digit Number in String
+- Power of 4
 
 More coming soon...
 
